@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityIntro", "IdentityIntro\IdentityIntro.csproj", "{EC1E188C-B67F-49EA-9108-958117F5536A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC1E188C-B67F-49EA-9108-958117F5536A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC1E188C-B67F-49EA-9108-958117F5536A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC1E188C-B67F-49EA-9108-958117F5536A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC1E188C-B67F-49EA-9108-958117F5536A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9899677-B57C-45DE-81B8-453320F9183A}
+	EndGlobalSection
+EndGlobal
